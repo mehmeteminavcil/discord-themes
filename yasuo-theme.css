@@ -1,4 +1,4 @@
-@import url('https://github.com/mehmeteminavcil/discord-themes/blob/main/src/base.css');
+@import url(https://mehmeteminavcil.github.io/discord-themes/src/base.css);
 
 
 
@@ -11,4 +11,10 @@
     background-color: transparent;
 }
 
+
+:root{
+
+    --main-bg-color : #912;
+
+}
 
