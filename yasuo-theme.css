@@ -1,0 +1,14 @@
+@import url('src/base.css');
+
+
+
+
+/* Main background -  u can change the url for any image u want */
+
+.app-2CXKsg {
+    background-image: url(https://images6.alphacoders.com/108/1085883.jpg);
+    background-size: cover;
+    background-color: transparent;
+}
+
+
